@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1566728318 source:d:\work\program\codeblocks_work\opencv_example_ellipsedetect\main.cpp
+	<iostream>
+	<string>
+	<opencv2/opencv.hpp>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1564561246 source:d:\work\program\codeblocks_work\opencv_example_colormodelconversion\main.cpp
+	<iostream>
+	<opencv2/opencv.hpp>
+
